@@ -1,8 +1,6 @@
 <h1 align="left"> Abdur Rehman Abbasi</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrehmanabbasi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehmanabbasi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehmanabbasi&theme=darkhub" alt="abdurrehmanabbasi" /></a> </p>
 
 - 🔭 I’m currently working on **many projects**
