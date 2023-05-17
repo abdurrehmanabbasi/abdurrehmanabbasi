@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **many projects**
 
-- 👯 I’m looking to collaborate on **react express node nestjs **
+- 👯 I’m looking to collaborate on **react express node nestjs**
 
 - 💬 Ask me about **react node typescript JavaScript**
 
