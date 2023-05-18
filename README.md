@@ -1,7 +1,6 @@
 <h1 align="left"> Abdur Rehman Abbasi</h1>
 <h2 align="center">  Results-driven software engineer with extensive experience in designing and implementing scalable solutions. Proficient in multiple programming languages and frameworks, specializing in Full Stack Web Development. Skilled problem solver and innovative thinker. Effective collaborator and Committed to delivering high-quality software products that exceed customer expectations.</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehmanabbasi&theme=darkhub" alt="abdurrehmanabbasi" /></a> </p>
 
 - 🔭 I’m currently working on **many projects**
 
@@ -9,6 +8,7 @@
 
 - 💬 Ask me about **react node typescript JavaScript**
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehmanabbasi&theme=darkhub" alt="abdurrehmanabbasi" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
