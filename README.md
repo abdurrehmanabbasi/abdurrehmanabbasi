@@ -1,8 +1,9 @@
 # Abdur Rehman
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-url/)](https://www.linkedin.com/in/abdurrehmanabbasi)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://your-portfolio-url/)](https://abdurrehman.xyz/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/your-github-username/)](https://github.com/abdurrehmanabbasi/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-url/)](https://www.linkedin.com/in/your-linkedin-url/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://your-portfolio-url/)](https://your-portfolio-url/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/your-github-username/)](https://github.com/your-github-username/)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehmanabbasi&theme=darkhub" alt="abdurrehmanabbasi" /></a>
 
 ## Introduction
 **Results-driven software engineer with extensive experience in designing and implementing scalable solutions.
@@ -11,17 +12,6 @@ Skilled problem solver and innovative thinker. Effective collaborator and Commit
 software products that exceed customer expectations.**
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehmanabbasi&theme=darkhub" alt="abdurrehmanabbasi" /></a>
-
-## 💼 Professional Experience
-
-- **Company Name** (City, Country) \
-  *Software Engineer* \
-  *Dates: Month Year - Present*
-
-- **Company Name** (City, Country) \
-  *Software Developer Intern* \
-  *Dates: Month Year - Month Year*
 
 ## 🚀 Skills
 
@@ -36,10 +26,16 @@ software products that exceed customer expectations.**
 
 ## 💡 Projects
 
-1. **Project Name**
-   - Description: Briefly describe the project and its features.
-   - Technologies Used: List the technologies used in the project.
-   - GitHub Repository: Provide a link to the GitHub repository.
+1. **MidDictionary**
+   - Description: This is a medical dictionary app that provides definitions, pronunciations with audio, and images related to words. The app uses the Merriam-Webster API to fetch more than 60000 medical terms and their definitions.
+   - Technologies Used: ReactJS, Merriam-Webster API, Tailwindcss, HTML5, CSS3.
+   - GitHub Repository: <a href="https://github.com/abdurrehmanabbasi/medDictionary">Link ↗</a>.
+
+2. **CoinScreener**
+   - Description: Coinscreener is an app that allows users to view live and historical data for a vast array of cryptocurrencies. The app uses the Coingecko API for the backend and features a user-friendly interface, a watchlist feature, and historical data tracking.
+   - Technologies: RectJS, Redux, ChartJS, Tailwindcss
+   - GitHub Repository: <a href="https://github.com/abdurrehmanabbasi/coinscreener">Link ↗</a>.
+
 
 ## 🌱 Currently Learning
 
@@ -53,8 +49,6 @@ I believe in continuous learning and staying up-to-date with the latest trends a
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/your-linkedin-url/)
-- Portfolio: [Your Portfolio URL](https://your-portfolio-url/)
-- GitHub: [Your GitHub Profile](https://github.com/your-github-username/)
+- [LinkedIn ↗](https://www.linkedin.com/in/abdurrehmanabbasi/)
 
 Let's connect and collaborate on exciting projects!
