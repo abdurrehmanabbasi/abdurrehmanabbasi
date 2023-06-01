@@ -3,8 +3,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://your-portfolio-url/)](https://abdurrehman.xyz/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/your-github-username/)](https://github.com/abdurrehmanabbasi/)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehmanabbasi&theme=darkhub" alt="abdurrehmanabbasi" /></a>
-
 ## Introduction
 **Results-driven software engineer with extensive experience in designing and implementing scalable solutions.
 Proficient in multiple programming languages and frameworks, specializing in Full Stack Web Development.
