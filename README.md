@@ -43,6 +43,9 @@ I believe in continuous learning and staying up-to-date with the latest trends a
 - Cloud-native Development
 - DevOps and CI/CD
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/abdurrehmanabbasi)
+
+
 ## 📫 Get in Touch
 
 Feel free to reach out to me through the following channels:
